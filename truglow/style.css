@@ -101,7 +101,7 @@ h2{
 
 @media only screen and (max-width: 768px) {
   .main-section{
-    height: 380vh;
+    height: 375vh;
   }
   .product-content{
     width: 100vw;
